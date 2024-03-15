@@ -1,0 +1,19 @@
+
+
+Admin Credential
+Username: admin@gmail.com
+Password: Test@123
+
+Credential for User panel :
+
+Username: anuj@gmail.com
+Password: Test@123
+
+Or Register a new user.
+
+Credential for Driver panel :
+
+Username: raju@gmail.com
+Password: Test@123
+
+Or Register a new Driver.
